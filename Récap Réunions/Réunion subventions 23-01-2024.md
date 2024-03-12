@@ -1,6 +1,6 @@
 # Réunion subventions 23/01/2024
 
-### Personnes présentes
+### Membres présents
 	
 	- Mathis
 	- Azad

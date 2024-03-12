@@ -1,5 +1,5 @@
 # Réunion du 30/01/2024
-## Personnes présentes
+## Membres présents
     - Anthony
     - Manon
     - Mathis
